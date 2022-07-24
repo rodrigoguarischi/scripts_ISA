@@ -10,8 +10,11 @@ Samples - Array Axiom Precision Medicine Research Array (PMRA) https://www.therm
 Sources:
 
 APT - Affymetrix https://www.affymetrix.com/support/developer/powertools/changelog/apt-genotype-axiom.html
+
 Plink 1.9 https://www.cog-genomics.org/plink/
+
 Plink 2.0 https://www.cog-genomics.org/plink/2.0/
+
 SNPRelate https://www.bioconductor.org/packages/release/bioc/html/SNPRelate.html
 
 Programming language:
