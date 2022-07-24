@@ -3,8 +3,10 @@
 **Data analysis Cohort - ISA Capital**
 
 Samples - Array Axiom Precision Medicine Research Array (PMRA) https://www.thermofisher.com/order/catalog/product/902981#/902981
+
 841 individuals 
-873177 SNP recommended
+
+873,177 SNP recommended
 
 
 -------------
