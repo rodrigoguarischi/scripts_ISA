@@ -8,7 +8,7 @@ library(ggplot2)
 # 2. input #
 ############
 
-data_results <- read.delim('C:/Users/Camila/OneDrive/Área de Trabalho/Novos gráficos - All Samples/genot_data_.txt')
+data_results <- read.delim('C:/Users/Camila/OneDrive/Ãrea de Trabalho/Novos grÃ¡ficos - All Samples/genot_data_.txt')
 head(data_results)
 table(data_results$computed_gender)
 
