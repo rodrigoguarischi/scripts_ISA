@@ -9,7 +9,7 @@ Samples - Array Axiom Precision Medicine Research Array (PMRA) https://www.therm
 
 -------------
 
-**Sources**
+**Sources:**
 
 APT - Affymetrix https://www.affymetrix.com/support/developer/powertools/changelog/apt-genotype-axiom.html
 
@@ -23,12 +23,17 @@ PennCNV: https://penncnv.openbioinformatics.org/en/latest/
 
 -------------
 
-**Programming Language**
+**Programming Language:**
 
 PowerShell
-Shell Linux
+
+Shell Script
+
 R
+
 Python
 
-**Database**
+-------------
+
+**Database:**
 Google Drive - Bancos Processados Genética ISA - Folder
